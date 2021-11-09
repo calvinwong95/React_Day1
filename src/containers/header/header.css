@@ -1,0 +1,35 @@
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    width: 100vw;
+    height: 10vh;
+
+    position: fixed;
+    background-color: white;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    box-sizing: border-box;
+    /* margin:20px 30px 30px 20px ; */
+    
+}
+
+nav ul {
+    
+    width: 300px;
+
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    box-sizing: border-box;
+    margin: 20px 50px;
+}

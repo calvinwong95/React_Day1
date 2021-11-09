@@ -1,0 +1,39 @@
+.home {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;  
+
+
+}
+
+.home-text {
+    width: 400px;
+    height: 100vh;
+
+    padding: 40px 20px;
+    box-sizing: border-box;
+
+}
+
+.home-text h1 {
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.home-text p {
+    font-size: 20px;
+}
+
+.home-img {
+
+    width: 400px;
+    height: 100vh;
+
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+.home-img img {
+    width: 300px;
+    
+}
+

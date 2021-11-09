@@ -1,0 +1,40 @@
+.about {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center;  
+
+
+}
+
+.about-text {
+    width: 400px;
+    height: 100vh;
+
+    padding: 40px 20px;
+    box-sizing: border-box;
+
+}
+
+.about-text h1 {
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.about-text p {
+    font-size: 20px;
+}
+
+.about-img {
+
+    width: 400px;
+    height: 100vh;
+
+    padding: 40px 20px;
+    box-sizing: border-box;
+}
+
+
+.about-img img {
+    width: 500px;
+    
+}

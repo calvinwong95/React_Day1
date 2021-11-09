@@ -1,0 +1,21 @@
+
+
+.contact-text h1{
+    font-size: 40px;
+    letter-spacing: 5px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.emailLabel {
+    margin-right: 40px;
+}
+.messageLabel {
+    margin-right: 15px;
+}
+

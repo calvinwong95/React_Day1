@@ -1,0 +1,27 @@
+.work-text h1 {
+    font-size: 40px;
+    letter-spacing: 5px;
+    margin-left: 200px;
+}
+
+
+.work-cards-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 50px 300px;
+    box-sizing: border-box;
+}
+
+
+.work-cards {
+    width: 200px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-image: linear-gradient(rgb(94, 196, 230), rgb(233, 186, 233));
+}
